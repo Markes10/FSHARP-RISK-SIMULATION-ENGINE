@@ -1,7 +1,7 @@
-# 18 - Quantitative Risk Simulation & VaR Engine (F#)
+# Quantitative Risk Simulation & VaR Engine (F#)
 
 ## Executive Overview
-A high-throughput quantitative risk engine written in **F# (.NET 8.0)**. It utilizes functional programming paradigms (immutability, pattern matching, pure functions) to execute Monte Carlo multi-asset portfolio simulations, computing **95% & 99% Value-at-Risk (VaR)** and **Expected Shortfall (CVaR)**.
+A high-throughput quantitative risk engine written in **F# (.NET 8.0)**. It utilises functional programming paradigms (immutability, pattern matching, pure functions) to execute Monte Carlo multi-asset portfolio simulations, computing **95% & 99% Value-at-Risk (VaR)** and **Expected Shortfall (CVaR)**.
 
 ## Simulation Pipeline
 

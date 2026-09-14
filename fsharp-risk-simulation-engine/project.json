@@ -1,0 +1,8 @@
+{
+  "id": "18",
+  "name": "18-fsharp-risk-simulation-engine",
+  "title": "Enterprise Risk Simulation & Decision Engine",
+  "language": "F#",
+  "domain": "Quantitative Finance & Stochastic Risk Modeling",
+  "description": "Functional Monte Carlo Value-at-Risk (VaR), Conditional VaR (Expected Shortfall), and macroeconomic stress-testing engine with Cholesky asset correlations."
+}

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>EnterpriseRisk</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="RiskSimulation.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+</Project>
